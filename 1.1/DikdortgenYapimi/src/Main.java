@@ -12,7 +12,7 @@ public class Main {
             for (j = 0; j < y; j++){
                 System.out.print("*  ");
             }
-        System.out.println("");
+        System.out.println();
         }
     }
 }
