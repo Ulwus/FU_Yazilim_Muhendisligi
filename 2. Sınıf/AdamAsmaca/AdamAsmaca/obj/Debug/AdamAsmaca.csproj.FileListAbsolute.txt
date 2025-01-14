@@ -1,0 +1,10 @@
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe.config
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csprojAssemblyReference.cache
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.Properties.Resources.resources
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.GenerateResource.cache
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.pdb
+C:\Users\ULWUS\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.adamAsmaca.resources

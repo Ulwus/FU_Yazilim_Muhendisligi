@@ -1,0 +1,14 @@
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\bin\Debug\net8.0\SpiralMatris.exe
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\bin\Debug\net8.0\SpiralMatris.deps.json
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\bin\Debug\net8.0\SpiralMatris.runtimeconfig.json
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\bin\Debug\net8.0\SpiralMatris.dll
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\bin\Debug\net8.0\SpiralMatris.pdb
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\SpiralMatris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\SpiralMatris.AssemblyInfoInputs.cache
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\SpiralMatris.AssemblyInfo.cs
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\SpiralMatris.csproj.CoreCompileInputs.cache
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\SpiralMatris.dll
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\refint\SpiralMatris.dll
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\SpiralMatris.pdb
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\SpiralMatris.genruntimeconfig.cache
+C:\Users\ULWUS\source\repos\SpiralMatris\SpiralMatris\obj\Debug\net8.0\ref\SpiralMatris.dll

@@ -1,0 +1,14 @@
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\net8.0\MatrisCarpim.exe
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\net8.0\MatrisCarpim.deps.json
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\net8.0\MatrisCarpim.runtimeconfig.json
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\net8.0\MatrisCarpim.dll
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\net8.0\MatrisCarpim.pdb
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\MatrisCarpim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\MatrisCarpim.AssemblyInfoInputs.cache
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\MatrisCarpim.AssemblyInfo.cs
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\MatrisCarpim.csproj.CoreCompileInputs.cache
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\MatrisCarpim.dll
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\refint\MatrisCarpim.dll
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\MatrisCarpim.pdb
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\MatrisCarpim.genruntimeconfig.cache
+C:\Users\ULWUS\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\net8.0\ref\MatrisCarpim.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisCarpim", "MatrisCarpim\MatrisCarpim.csproj", "{98417D88-FF66-484B-96AC-7A31608D5A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98417D88-FF66-484B-96AC-7A31608D5A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98417D88-FF66-484B-96AC-7A31608D5A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98417D88-FF66-484B-96AC-7A31608D5A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98417D88-FF66-484B-96AC-7A31608D5A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D0ED24-CAAB-4C3D-97A8-C5C6F40E0399}
+	EndGlobalSection
+EndGlobal

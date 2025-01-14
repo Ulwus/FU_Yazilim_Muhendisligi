@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HaftalikOdev4/1.0.0": {
+        "runtime": {
+          "HaftalikOdev4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HaftalikOdev4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

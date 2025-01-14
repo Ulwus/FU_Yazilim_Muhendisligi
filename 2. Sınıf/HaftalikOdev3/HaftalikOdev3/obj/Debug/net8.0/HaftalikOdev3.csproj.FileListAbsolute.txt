@@ -1,0 +1,14 @@
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\bin\Debug\net8.0\HaftalikOdev3.exe
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\bin\Debug\net8.0\HaftalikOdev3.deps.json
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\bin\Debug\net8.0\HaftalikOdev3.runtimeconfig.json
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\bin\Debug\net8.0\HaftalikOdev3.dll
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\bin\Debug\net8.0\HaftalikOdev3.pdb
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\HaftalikOdev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\HaftalikOdev3.AssemblyInfoInputs.cache
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\HaftalikOdev3.AssemblyInfo.cs
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\HaftalikOdev3.csproj.CoreCompileInputs.cache
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\HaftalikOdev3.dll
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\refint\HaftalikOdev3.dll
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\HaftalikOdev3.pdb
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\HaftalikOdev3.genruntimeconfig.cache
+C:\Users\ULWUS\source\repos\HaftalikOdev3\HaftalikOdev3\obj\Debug\net8.0\ref\HaftalikOdev3.dll

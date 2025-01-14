@@ -1,0 +1,14 @@
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\bin\Debug\net8.0\Maceraci.exe
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\bin\Debug\net8.0\Maceraci.deps.json
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\bin\Debug\net8.0\Maceraci.runtimeconfig.json
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\bin\Debug\net8.0\Maceraci.dll
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\bin\Debug\net8.0\Maceraci.pdb
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\Maceraci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\Maceraci.AssemblyInfoInputs.cache
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\Maceraci.AssemblyInfo.cs
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\Maceraci.csproj.CoreCompileInputs.cache
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\Maceraci.dll
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\refint\Maceraci.dll
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\Maceraci.pdb
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\Maceraci.genruntimeconfig.cache
+C:\Users\ULWUS\source\repos\Maceraci\Maceraci\obj\Debug\net8.0\ref\Maceraci.dll

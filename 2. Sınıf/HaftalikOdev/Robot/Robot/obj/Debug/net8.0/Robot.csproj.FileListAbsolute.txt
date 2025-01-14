@@ -1,0 +1,14 @@
+C:\Users\ULWUS\source\repos\Robot\Robot\bin\Debug\net8.0\Robot.exe
+C:\Users\ULWUS\source\repos\Robot\Robot\bin\Debug\net8.0\Robot.deps.json
+C:\Users\ULWUS\source\repos\Robot\Robot\bin\Debug\net8.0\Robot.runtimeconfig.json
+C:\Users\ULWUS\source\repos\Robot\Robot\bin\Debug\net8.0\Robot.dll
+C:\Users\ULWUS\source\repos\Robot\Robot\bin\Debug\net8.0\Robot.pdb
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\Robot.AssemblyInfoInputs.cache
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\Robot.AssemblyInfo.cs
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\Robot.csproj.CoreCompileInputs.cache
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\Robot.dll
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\refint\Robot.dll
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\Robot.pdb
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\Robot.genruntimeconfig.cache
+C:\Users\ULWUS\source\repos\Robot\Robot\obj\Debug\net8.0\ref\Robot.dll

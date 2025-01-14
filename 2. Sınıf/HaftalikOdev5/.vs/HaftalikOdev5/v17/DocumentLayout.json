@@ -1,0 +1,789 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\enum\\havatavsiyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\enum\\havatavsiyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\enum\\trafikkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\enum\\trafikkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\enum\\maashesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\enum\\maashesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\struct\\gpskonum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\struct\\gpskonum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\struct\\karmasiksayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\struct\\karmasiksayi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\struct\\zaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\struct\\zaman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\indeksleyici\\otopark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\indeksleyici\\otopark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\indeksleyici\\satranctahtasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\indeksleyici\\satranctahtasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\indeksleyici\\notsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\indeksleyici\\notsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\indeksleyici\\kutuphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\indeksleyici\\kutuphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\matematik\\zamanfarkihesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\matematik\\zamanfarkihesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\matematik\\alanhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\matematik\\alanhesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\overloading\\matematik\\hesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:overloading\\matematik\\hesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\banka2\\ibankahesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\banka2\\ibankahesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\banka2\\birikimhesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\banka2\\birikimhesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\banka2\\hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\banka2\\hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\banka2\\vadesizhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\banka2\\vadesizhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\banka\\vadesizhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\banka\\vadesizhesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\banka\\vadelihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\banka\\vadelihesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\banka\\hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\banka\\hesap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\hayvanat\\memeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\hayvanat\\memeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\hayvanat\\kus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\hayvanat\\kus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\hayvanat\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\hayvanat\\hayvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\calisan\\muhasebeci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\calisan\\muhasebeci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\calisan\\yazilimci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\calisan\\yazilimci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\kalitim\\calisan\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:kalitim\\calisan\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml3\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml3\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml3\\rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml3\\rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml3\\rentingowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml3\\rentingowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml3\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml3\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml3\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml3\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml2\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml2\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml2\\petinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml2\\petinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml2\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml2\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml2\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml2\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml2\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml2\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml2\\iexperienced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml2\\iexperienced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml1\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml1\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev5\\uml1\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D85760-2645-4797-92DD-29694E53C351}|HaftalikOdev5.csproj|solutionrelative:uml1\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kutuphane.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Indeksleyici\\Kutuphane.cs",
+              "RelativeDocumentMoniker": "Overloading\\Indeksleyici\\Kutuphane.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Indeksleyici\\Kutuphane.cs",
+              "RelativeToolTip": "Overloading\\Indeksleyici\\Kutuphane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:38:55.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Indeksleyici\\NotSistemi.cs",
+              "RelativeDocumentMoniker": "Overloading\\Indeksleyici\\NotSistemi.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Indeksleyici\\NotSistemi.cs",
+              "RelativeToolTip": "Overloading\\Indeksleyici\\NotSistemi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:39:03.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SatrancTahtasi.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Indeksleyici\\SatrancTahtasi.cs",
+              "RelativeDocumentMoniker": "Overloading\\Indeksleyici\\SatrancTahtasi.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Indeksleyici\\SatrancTahtasi.cs",
+              "RelativeToolTip": "Overloading\\Indeksleyici\\SatrancTahtasi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:39:10.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Otopark.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Indeksleyici\\Otopark.cs",
+              "RelativeDocumentMoniker": "Overloading\\Indeksleyici\\Otopark.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Indeksleyici\\Otopark.cs",
+              "RelativeToolTip": "Overloading\\Indeksleyici\\Otopark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:39:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zaman.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Struct\\Zaman.cs",
+              "RelativeDocumentMoniker": "Overloading\\Struct\\Zaman.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Struct\\Zaman.cs",
+              "RelativeToolTip": "Overloading\\Struct\\Zaman.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:39:24.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KarmasikSayi.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Struct\\KarmasikSayi.cs",
+              "RelativeDocumentMoniker": "Overloading\\Struct\\KarmasikSayi.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Struct\\KarmasikSayi.cs",
+              "RelativeToolTip": "Overloading\\Struct\\KarmasikSayi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:39:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GPSKonum.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Struct\\GPSKonum.cs",
+              "RelativeDocumentMoniker": "Overloading\\Struct\\GPSKonum.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Struct\\GPSKonum.cs",
+              "RelativeToolTip": "Overloading\\Struct\\GPSKonum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:39:37.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrafikKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Enum\\TrafikKontrol.cs",
+              "RelativeDocumentMoniker": "Overloading\\Enum\\TrafikKontrol.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Enum\\TrafikKontrol.cs",
+              "RelativeToolTip": "Overloading\\Enum\\TrafikKontrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:39:56.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HavaTavsiyesi.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Enum\\HavaTavsiyesi.cs",
+              "RelativeDocumentMoniker": "Overloading\\Enum\\HavaTavsiyesi.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Enum\\HavaTavsiyesi.cs",
+              "RelativeToolTip": "Overloading\\Enum\\HavaTavsiyesi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:40:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaasHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Enum\\MaasHesaplayici.cs",
+              "RelativeDocumentMoniker": "Overloading\\Enum\\MaasHesaplayici.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Enum\\MaasHesaplayici.cs",
+              "RelativeToolTip": "Overloading\\Enum\\MaasHesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:40:19.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:35:15.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ZamanFarkiHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Matematik\\ZamanFarkiHesaplayici.cs",
+              "RelativeDocumentMoniker": "Overloading\\Matematik\\ZamanFarkiHesaplayici.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Matematik\\ZamanFarkiHesaplayici.cs",
+              "RelativeToolTip": "Overloading\\Matematik\\ZamanFarkiHesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:38:18.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlanHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Matematik\\AlanHesaplayici.cs",
+              "RelativeDocumentMoniker": "Overloading\\Matematik\\AlanHesaplayici.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Matematik\\AlanHesaplayici.cs",
+              "RelativeToolTip": "Overloading\\Matematik\\AlanHesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:38:12.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Matematik\\Hesaplayici.cs",
+              "RelativeDocumentMoniker": "Overloading\\Matematik\\Hesaplayici.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Overloading\\Matematik\\Hesaplayici.cs",
+              "RelativeToolTip": "Overloading\\Matematik\\Hesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:38:00.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBankaHesabi.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka2\\IBankaHesabi.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Banka2\\IBankaHesabi.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka2\\IBankaHesabi.cs",
+              "RelativeToolTip": "Kalitim\\Banka2\\IBankaHesabi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:24:59.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VadesizHesap.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka2\\VadesizHesap.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Banka2\\VadesizHesap.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka2\\VadesizHesap.cs",
+              "RelativeToolTip": "Kalitim\\Banka2\\VadesizHesap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:24:20.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BirikimHesabi.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka2\\BirikimHesabi.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Banka2\\BirikimHesabi.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka2\\BirikimHesabi.cs",
+              "RelativeToolTip": "Kalitim\\Banka2\\BirikimHesabi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:24:14.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hesap.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka2\\Hesap.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Banka2\\Hesap.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka2\\Hesap.cs",
+              "RelativeToolTip": "Kalitim\\Banka2\\Hesap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:24:07.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VadesizHesap.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka\\VadesizHesap.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Banka\\VadesizHesap.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka\\VadesizHesap.cs",
+              "RelativeToolTip": "Kalitim\\Banka\\VadesizHesap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:22:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VadeliHesap.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka\\VadeliHesap.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Banka\\VadeliHesap.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka\\VadeliHesap.cs",
+              "RelativeToolTip": "Kalitim\\Banka\\VadeliHesap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:22:42.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Hesap.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka\\Hesap.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Banka\\Hesap.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Banka\\Hesap.cs",
+              "RelativeToolTip": "Kalitim\\Banka\\Hesap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:22:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Kus.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Hayvanat\\Kus.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Hayvanat\\Kus.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Hayvanat\\Kus.cs",
+              "RelativeToolTip": "Kalitim\\Hayvanat\\Kus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:20:04.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Memeli.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Hayvanat\\Memeli.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Hayvanat\\Memeli.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Hayvanat\\Memeli.cs",
+              "RelativeToolTip": "Kalitim\\Hayvanat\\Memeli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:19:58.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Hayvan.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Hayvanat\\Hayvan.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Hayvanat\\Hayvan.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Hayvanat\\Hayvan.cs",
+              "RelativeToolTip": "Kalitim\\Hayvanat\\Hayvan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:19:51.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Muhasebeci.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Calisan\\Muhasebeci.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Calisan\\Muhasebeci.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Calisan\\Muhasebeci.cs",
+              "RelativeToolTip": "Kalitim\\Calisan\\Muhasebeci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:17:22.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Yazilimci.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Calisan\\Yazilimci.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Calisan\\Yazilimci.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Calisan\\Yazilimci.cs",
+              "RelativeToolTip": "Kalitim\\Calisan\\Yazilimci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:17:11.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Calisan\\Calisan.cs",
+              "RelativeDocumentMoniker": "Kalitim\\Calisan\\Calisan.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\Kalitim\\Calisan\\Calisan.cs",
+              "RelativeToolTip": "Kalitim\\Calisan\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:17:03.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Rentals.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Rentals.cs",
+              "RelativeDocumentMoniker": "UML3\\Rentals.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Rentals.cs",
+              "RelativeToolTip": "UML3\\Rentals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:05:54.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RentingOwner.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\RentingOwner.cs",
+              "RelativeDocumentMoniker": "UML3\\RentingOwner.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\RentingOwner.cs",
+              "RelativeToolTip": "UML3\\RentingOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:05:41.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Reservation.cs",
+              "RelativeDocumentMoniker": "UML3\\Reservation.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Reservation.cs",
+              "RelativeToolTip": "UML3\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:05:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Car.cs",
+              "RelativeDocumentMoniker": "UML3\\Car.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Car.cs",
+              "RelativeToolTip": "UML3\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:05:08.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Payment.cs",
+              "RelativeDocumentMoniker": "UML3\\Payment.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Payment.cs",
+              "RelativeToolTip": "UML3\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:04:59.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Customer.cs",
+              "RelativeDocumentMoniker": "UML3\\Customer.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Customer.cs",
+              "RelativeToolTip": "UML3\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:04:50.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Transaction.cs",
+              "RelativeDocumentMoniker": "UML3\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML3\\Transaction.cs",
+              "RelativeToolTip": "UML3\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:04:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Vaccine.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\Vaccine.cs",
+              "RelativeDocumentMoniker": "UML2\\Vaccine.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\Vaccine.cs",
+              "RelativeToolTip": "UML2\\Vaccine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:03:18.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PetInformation.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\PetInformation.cs",
+              "RelativeDocumentMoniker": "UML2\\PetInformation.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\PetInformation.cs",
+              "RelativeToolTip": "UML2\\PetInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:02:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "UML2\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\IIdentifiable.cs",
+              "RelativeToolTip": "UML2\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:01:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IExperienced.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\IExperienced.cs",
+              "RelativeDocumentMoniker": "UML2\\IExperienced.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\IExperienced.cs",
+              "RelativeToolTip": "UML2\\IExperienced.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:01:05.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\Animal.cs",
+              "RelativeDocumentMoniker": "UML2\\Animal.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\Animal.cs",
+              "RelativeToolTip": "UML2\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:40:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\Owner.cs",
+              "RelativeDocumentMoniker": "UML2\\Owner.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\Owner.cs",
+              "RelativeToolTip": "UML2\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:39:50.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\Pet.cs",
+              "RelativeDocumentMoniker": "UML2\\Pet.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML2\\Pet.cs",
+              "RelativeToolTip": "UML2\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:39:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML1\\Professor.cs",
+              "RelativeDocumentMoniker": "UML1\\Professor.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML1\\Professor.cs",
+              "RelativeToolTip": "UML1\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:39:19.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML1\\Student.cs",
+              "RelativeDocumentMoniker": "UML1\\Student.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML1\\Student.cs",
+              "RelativeToolTip": "UML1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:39:01.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML1\\Address.cs",
+              "RelativeDocumentMoniker": "UML1\\Address.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML1\\Address.cs",
+              "RelativeToolTip": "UML1\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:38:51.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML1\\Person.cs",
+              "RelativeDocumentMoniker": "UML1\\Person.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev5\\UML1\\Person.cs",
+              "RelativeToolTip": "UML1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:38:39.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

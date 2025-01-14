@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev3\\haftalikodev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|solutionrelative:haftalikodev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev3\\haftalikodev3\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|solutionrelative:haftalikodev3\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev3\\haftalikodev3\\kutuphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|solutionrelative:haftalikodev3\\kutuphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev3\\haftalikodev3\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|solutionrelative:haftalikodev3\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev3\\haftalikodev3\\kiralikarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|solutionrelative:haftalikodev3\\kiralikarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev3\\haftalikodev3\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|solutionrelative:haftalikodev3\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|c:\\users\\ulwus\\source\\repos\\haftalikodev3\\haftalikodev3\\bankahesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B17CF9B-8515-43A1-AED2-E31808A0AE9D}|HaftalikOdev3\\HaftalikOdev3.csproj|solutionrelative:haftalikodev3\\bankahesabi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Kitap.cs",
+              "RelativeDocumentMoniker": "HaftalikOdev3\\Kitap.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Kitap.cs",
+              "RelativeToolTip": "HaftalikOdev3\\Kitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:12:36.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KiralikArac.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\KiralikArac.cs",
+              "RelativeDocumentMoniker": "HaftalikOdev3\\KiralikArac.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\KiralikArac.cs",
+              "RelativeToolTip": "HaftalikOdev3\\KiralikArac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:51:59.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kutuphane.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Kutuphane.cs",
+              "RelativeDocumentMoniker": "HaftalikOdev3\\Kutuphane.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Kutuphane.cs",
+              "RelativeToolTip": "HaftalikOdev3\\Kutuphane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:14:38.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Kisi.cs",
+              "RelativeDocumentMoniker": "HaftalikOdev3\\Kisi.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Kisi.cs",
+              "RelativeToolTip": "HaftalikOdev3\\Kisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:14:25.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankaHesabi.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\BankaHesabi.cs",
+              "RelativeDocumentMoniker": "HaftalikOdev3\\BankaHesabi.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\BankaHesabi.cs",
+              "RelativeToolTip": "HaftalikOdev3\\BankaHesabi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:14:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Urun.cs",
+              "RelativeDocumentMoniker": "HaftalikOdev3\\Urun.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Urun.cs",
+              "RelativeToolTip": "HaftalikOdev3\\Urun.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:13:27.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Program.cs",
+              "RelativeDocumentMoniker": "HaftalikOdev3\\Program.cs",
+              "ToolTip": "C:\\Users\\ULWUS\\source\\repos\\HaftalikOdev3\\HaftalikOdev3\\Program.cs",
+              "RelativeToolTip": "HaftalikOdev3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:11:10.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

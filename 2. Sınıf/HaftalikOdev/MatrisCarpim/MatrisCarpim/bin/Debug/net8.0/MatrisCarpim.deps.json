@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MatrisCarpim/1.0.0": {
+        "runtime": {
+          "MatrisCarpim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatrisCarpim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
